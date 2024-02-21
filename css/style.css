@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/bg3.png");
+    background-size: cover; /* Use 'cover' to make the image cover the entire element */
+    /* Prevent image repetition */
+    background-color: black;
+  }
+  
+  body {
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
+  html {
+    overflow-y: hidden;
+  }
+  
